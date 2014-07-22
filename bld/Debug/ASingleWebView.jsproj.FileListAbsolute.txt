@@ -1,0 +1,15 @@
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bin\Debug\ReverseMap\resources.pri
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bin\Debug\AppxManifest.xml
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bin\Debug\ASingleWebView.build.appxrecipe
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bld\Debug\priconfig.xml
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bld\Debug\priconfig.xml.intermediate
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bld\Debug\layout.resfiles
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bld\Debug\layout.resfiles.intermediate
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bld\Debug\resources.resfiles
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bld\Debug\resources.resfiles.intermediate
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bld\Debug\pri.resfiles
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bld\Debug\pri.resfiles.intermediate
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bld\Debug\qualifiers.txt
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bld\Debug\qualifiers.txt.intermediate
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mabeeby\documents\visual studio 2013\Projects\ASingleWebView\ASingleWebView\bld\Debug\ProjectArchitectures.txt

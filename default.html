@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>ASingleWebView</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- ASingleWebView references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <style>
+        body {
+            padding:120px; 
+            display:flex
+        }
+        body > div {
+            flex: 1 1 auto;
+        }
+
+        body > button {
+            flex: 0 1 auto;
+            height:120px;
+        }
+        
+        
+    </style>
+</head>
+<body style="">
+    
+    <button id="btnPrint">Print</button>
+
+  
+
+    <div style="transform:scale(1); transform-origin:0% 0%">
+        <x-ms-webview id="webview" src="http://cdn.mathjax.org/mathjax/latest/test/sample.html"
+                      style="width: 400px; height: 400px;">
+        </x-ms-webview>
+    </div>
+    <div id="result"></div> 
+    
+    
+</body>
+</html>
